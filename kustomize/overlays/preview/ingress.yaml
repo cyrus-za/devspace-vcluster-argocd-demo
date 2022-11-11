@@ -15,3 +15,4 @@ spec:
             name: devops-toolkit
             port:
               number: 80
+    host: preview-devops-toolkit.inv.systems

@@ -3,4 +3,7 @@ kind: Kustomization
 resources:
 - ../../base
 - ingress.yaml
-
+images:
+- name: vfarcic/devops-toolkit
+  newName: vfarcic/devops-toolkit
+  newTag: pr-1
